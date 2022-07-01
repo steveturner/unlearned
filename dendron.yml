@@ -88,13 +88,17 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
+    siteUrl: https://unlearnedhelplessness.com
+    logoPath: notes/assets/images/logo.png
+    siteFaviconPath: >-
+        notes/assets/images/favicon.ico
     siteHierarchies:
         - root
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: UnlearnedHelplessness
+        description: Steven Turner's repository of knowledge
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
